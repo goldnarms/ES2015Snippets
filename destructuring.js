@@ -5,6 +5,6 @@ var c = array[2];
 
 console.log(a + b + c);
 
-[es6a, es6b, es6c] = array;
+let [esa, esb, esc] = array;
 
-console.log(a + b + c);
+console.log(esa + esb + esc);
