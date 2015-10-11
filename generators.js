@@ -15,3 +15,4 @@ for(let value of generatorFunction()){
 }
 
 // 1, 2, 3
+
